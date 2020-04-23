@@ -4,4 +4,4 @@ exclude =
     __pycache__,
     manage.py,
     settings.py
-MAX-LINE-LENGTH = 119
+max-line-length = 119
